@@ -1,0 +1,31 @@
+# AI Website Copy Generator – Medical Clinic
+
+## Business Chosen
+Trinethra Skin and Ortho Care  
+Location: Chikkamagaluru, Karnataka
+
+## Problem
+Local clinics often have unclear or generic website content, which reduces patient trust and appointment conversions.
+
+## Solution
+Used prompt engineering with AI to generate clear, professional, patient-friendly website copy for a real clinic.
+
+## Tool Used
+- Lovable (AI Website Builder)
+
+## What AI Generated
+- Homepage copy with strong value proposition
+- Services content for dermatology and orthopaedics
+- Trust-building sections
+- Conversion-focused CTAs
+
+## Outcome
+- Real clinic website
+- Publish-ready medical copy
+- Reusable prompt system for other clinics
+
+## Skills Demonstrated
+- Prompt engineering
+- AI website building
+- UX writing for healthcare
+- Conversion-focused copywriting

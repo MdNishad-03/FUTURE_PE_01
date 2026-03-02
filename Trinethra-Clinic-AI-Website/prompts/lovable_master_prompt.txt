@@ -1,0 +1,60 @@
+Act as a professional medical website copywriter.
+
+Create complete, publish-ready website content for a local clinic with the details below.
+
+Business Name:
+Trinethra Skin and Ortho Care
+
+Location:
+Chikkamagaluru, Karnataka
+
+Business Type:
+Skin, Hair, Nail & Orthopaedic Care Clinic
+
+About the Clinic:
+One-stop solution for skin, hair, nail, and bone-related problems.
+Laser treatments available.
+Board-certified dermatologist and qualified orthopaedician available.
+Known for patient-friendly consultation and clear explanations.
+
+Target Patients:
+People suffering from skin conditions, hair loss, nail disorders, joint pain, bone issues, and orthopaedic problems.
+
+Tone & Style:
+Professional, trustworthy, reassuring, patient-friendly
+Simple language (non-technical)
+Avoid generic healthcare marketing terms
+
+Generate the following sections:
+
+1. HERO SECTION
+- Strong headline highlighting expertise and trust
+- Sub-headline explaining who the clinic helps
+- Primary CTA: Book Appointment / Call Now
+
+2. ABOUT SECTION
+- Short clinic introduction
+- Doctor expertise and patient-first approach
+- Emphasis on accurate diagnosis and ethical treatment
+
+3. SERVICES SECTION
+Include:
+- Dermatology (skin, hair & nail care)
+- Laser treatments
+- Orthopaedic consultation & bone care
+
+For each service:
+- What it treats
+- What patients can expect
+- Why choose this clinic
+
+4. TRUST SECTION
+- Highlight 5-star rating and patient satisfaction
+- Friendly staff and clear consultation experience
+
+5. CTA SECTION
+- Location-based CTA for Chikkamagaluru patients
+- Appointment booking encouragement
+- Reassurance for first-time patients
+
+Output should be ready to publish on a real clinic website.
